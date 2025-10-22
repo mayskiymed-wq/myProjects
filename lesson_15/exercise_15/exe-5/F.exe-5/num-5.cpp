@@ -19,5 +19,10 @@ int main() {
     if (!Fout) { cout << "Нет файла 'exe-5-out.txt'."; return 1; }
 
     string line;
+    while (/* condition */)
+    {
+        /* code */
+    }
+    
     
 }
