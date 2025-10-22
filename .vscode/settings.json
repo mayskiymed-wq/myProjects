@@ -1,0 +1,19 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atomize",
+    "editor.fontSize": 17,
+    "files.autoSave": "afterDelay",
+    
+    "C_Cpp.default.compilerPath": "C:\\mingw32\\bin\\i686-w64-mingw32-c++.exe",
+    "C_Cpp.default.intelliSenseMode": "gcc-x86",
+    "C_Cpp.default.cppStandard": "c++17",
+    
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -std=c++17 -fexec-charset=UTF-8 -finput-charset=UTF-8 -Wall -Wextra $fileName -o $fileNameWithoutExt.exe && $dir$fileNameWithoutExt.exe"
+    },
+    "code-runner.saveFileBeforeRun": true,
+    
+    "files.encoding": "utf8"
+
+}

@@ -1,0 +1,2 @@
+//ifstream Fin("C:/Users/Admin/Documents/Cpp_Father/Polyakov_B3/lesson_15/exercise_15/F.exe-5/exe-5-in.txt");
+//ofstream Fout("C:/Users/Admin/Documents/Cpp_Father/Polyakov_B3/lesson_15/exercise_15/F.exe-5/exe-5-out.txt");
