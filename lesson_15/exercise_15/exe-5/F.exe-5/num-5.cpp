@@ -12,8 +12,6 @@ string isPalindrom (string line) {
         lineRev += line [i];
     }
     return lineRev;
-    //if (lineRev == line) {return true;}
-    //else                 {return false;}
 
 }
 
